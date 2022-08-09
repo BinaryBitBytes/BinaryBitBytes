@@ -72,11 +72,21 @@
 <span>
 <a aria-label="FreeCodeCamp" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"><img aria-label="FreeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" data-canonical-src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" alt="FreeCodeCamp" style="max-width: 100%;"></a>
 <a aria-label="CodeAcademy" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A">
-<img aria-label="CodeAcademy" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" alt="CodeAcademy" data-canonical-src="" style="max-width: 100%"></a>
-<a aria-label="Udemy" target="_blank" rel="noopener noreferrer" href=https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy" data-canonical-src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" style="max-width: 100%;"></a>
-
-  
+<img aria-label="CodeAcademy" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" alt="CodeAcademy" data-canonical-src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" style="max-width: 100%"></a>
+<a aria-label="Udemy" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy" data-canonical-src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" style="max-width: 100%;"></a>
 </span>
+</section>
+
+<h3>Operating Systems I Use:</h3>
+<hr>
+<section>
+<a aria-label="Android" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=red"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=red" alt="Android" data-canonical-src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=red" style="max-width: 100%;"></a>
+<a aria-label="Kali Linux" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=black"><img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=black" alt="Kali Linux" data-canonical-src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=black" style="max-width: 100%;"></a>
+<a aria-label="Linux" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" data-canonical-src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="max-width: 100%;"></a>
+<a aria-label="Linux Mint" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=black"><img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=black" alt="Linux Mint" data-canonical-src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=black" style="max-width: 100%;"></a>
+<a aria-label="Red Hat" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=gold"><img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=gold" alt="Red Hat" data-canonical-src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=gold" style="max-width: 100%;"></a>
+<a aria-label="Ubuntu" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=green"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=green" alt="Ubuntu" data-canonical-src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=green" style="max-width: 100%;"></a>
+  
 </section>
 
 </body>
