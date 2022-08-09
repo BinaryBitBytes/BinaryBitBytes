@@ -79,6 +79,13 @@
 <a aria-label="Heorku" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=gold"><img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=gold" alt="Heorku" data-canonical-src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=gold" style="max-width: 100%;"></a>  
 </section>
 
+<h3>Testing Suites I Use:</h3>
+<hr>
+<section> 
+<a aria-label="Jest" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=black"><img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=black" alt="Jest" data-canonical-src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=black" style="max-width: 100%;"></a>
+<a aria-label="Mocha" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=green"><img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=green" alt="Mocha" data-canonical-src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=green" style="max-width: 100%;"></a>
+</section>
+  
 <h3>Learning Platforms I Use:</h3>
 <hr>
 <section>
@@ -99,8 +106,7 @@
 <a aria-label="Linux" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" data-canonical-src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="max-width: 100%;"></a>
 <a aria-label="Linux Mint" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=black"><img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=black" alt="Linux Mint" data-canonical-src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=black" style="max-width: 100%;"></a>
 <a aria-label="Ubuntu" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=green"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=green" alt="Ubuntu" data-canonical-src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=green" style="max-width: 100%;"></a>
-<a aria-label="Windows" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=black"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=black" alt="Windows" data-canonical-src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=black" style="max-width: 100%;"></a>
-  
+<a aria-label="Windows" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=black"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=black" alt="Windows" data-canonical-src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=black" style="max-width: 100%;"></a>  
 </section>
 
 </body>
