@@ -2,23 +2,34 @@
 <h3>About Me<h3>
 <hr>
 <h6>
-<ul">
+<ul>
 <li> 👋 Hi, I’m @BinaryBitBytes & i have a background in Networking & Hardware.
 <li> 🐲 I am a full stack developer.
-<li> 📫 How to reach me , I will post my Slack and Discord soon.
+<br>
 </ul>
 </h6>
+<br>
+<h3>📫 How to reach me:</h3>
+<hr>
+<span>
+<a aria-label="Gmail" target="_blank" rel="noopener noreferrer" href="mailto:117mwc117@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="max-width: 100%;"></a>
+</span>
+
 
 
 <h3>Languages & Technologies</h3>
 <hr>
 <section>
 <p>
-<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" data-canonical-src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="max-width: 100%;"></a>
+<a aria-label="VisualStudioCode" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" data-canonical-src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="max-width: 100%;"></a>
 
 <br>
 
-<a aria-label="CodeAcademy" target="_blank" rel="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A">
+<a aria-label="FreeCodeCamp" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" data-canonical-src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" alt="" style="max-width: 100%;"></a>
+
+<br>
+
+<a aria-label="CodeAcademy" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A">
 <img aria-label="CodeAcademy" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" alt="CodeAcademy" data-canonical-src="" style="max-width: 100%"></a>
 
 <br>
