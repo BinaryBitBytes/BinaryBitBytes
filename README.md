@@ -13,6 +13,8 @@
 <span>
 <a aria-label="Gmail" target="_top" rel="noopener noreferrer" href="mailto:117mwc117@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="max-width: 100%;"></a>
 </a>
+<a aria-label="Slack" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" data-canonical-src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" style="max-width: 100%;"></a>
+
 </span>
 
 <h3>Languages & Technologies</h3>
