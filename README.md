@@ -38,8 +38,10 @@
 <a aria-label="BootStrap" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BootStrap" data-canonical-src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style="max-width: 100%;"></a>
 <a aria-label="Express.js" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" data-canonical-src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="max-width: 100%;"></a>
 <a aria-label="Insomnia" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"><img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" alt="Insomnia" data-canonical-src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" style="max-width: 100%;"></a>
-  
+<a aria-label="JQuery " target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"><img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery " data-canonical-src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" style="max-width: 100%;"></a>
 </span>
+  
+<!--<a aria-label="" target="_blank" rel="noopener noreferrer" href=""><img src="" alt="" data-canonical-src="" style="max-width: 100%;"></a> -->
 
 </section>
 
