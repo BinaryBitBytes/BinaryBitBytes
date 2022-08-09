@@ -58,6 +58,12 @@
 <!--<a aria-label="" target="_blank" rel="noopener noreferrer" href=""><img src="" alt="" data-canonical-src="" style="max-width: 100%;"></a> -->
 
 </section>
+
+<h3>Object Relational Mapping (ORM)</h3>
+<hr>
+<section>
+<a aria-label="Sequelize" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=black"><img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=black" alt="Sequelize" data-canonical-src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=black" style="max-width: 100%;"></a>
+</section>
   
 <h3>Hosting Services</h3>
 <hr>
