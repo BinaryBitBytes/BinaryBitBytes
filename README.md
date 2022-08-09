@@ -11,7 +11,8 @@
 <h3>📫 How to reach me:</h3>
 <hr>
 <span>
-<a aria-label="Gmail" target="_blank" rel="noopener noreferrer" href="mailto:117mwc117@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="max-width: 100%;"></a>
+<a aria-label="Gmail" target="_top" rel="noopener noreferrer" href="mailto:117mwc117@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="max-width: 100%;"></a>
+</a>
 </span>
 
 <h3>Languages & Technologies</h3>
@@ -49,8 +50,14 @@
   
 </span>
 </section>
-  
+
 </body>
+
+### Contact Me
+
+------------
+
+#### <117MWC117@gmail.com>
 <!---
 BinaryBitBytes/BinaryBitBytes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
