@@ -37,7 +37,8 @@
 <a aria-label="apollo-graphql" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql"><img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" alt="apollo-graphql" data-canonical-src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" style="max-width: 100%;"></a>
 <a aria-label="BootStrap" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BootStrap" data-canonical-src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style="max-width: 100%;"></a>
 <a aria-label="Express.js" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" data-canonical-src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="max-width: 100%;"></a>
-
+<a aria-label="Insomnia" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"><img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" alt="Insomnia" data-canonical-src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" style="max-width: 100%;"></a>
+  
 </span>
 
 </section>
@@ -50,6 +51,7 @@
 <a aria-label="CodeAcademy" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A">
 <img aria-label="CodeAcademy" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" alt="CodeAcademy" data-canonical-src="" style="max-width: 100%"></a>
 <a aria-label="Udemy" target="_blank" rel="noopener noreferrer" href=https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy" data-canonical-src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" style="max-width: 100%;"></a>
+
   
 </span>
 </section>
