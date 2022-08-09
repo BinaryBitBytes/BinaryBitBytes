@@ -18,6 +18,11 @@
 
 <br>
 
+<a aria-label="CodeAcademy" target="_blank" rel="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A">
+<img aria-label="CodeAcademy" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" alt="CodeAcademy" data-canonical-src="" style="max-width: 100%"></a>
+
+<br>
+
 <a aria-label="JavaScript" target="_blank" rel="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img aria-label="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="max-width: 100%"></a>
 
@@ -40,6 +45,8 @@
 
 <a aria-label="MySQL" target="_blank" rel="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 <img aria-label="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" data-canonical-src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" style="max-width: 100%"></a>
+
+<br>
 
 </p>
 <section>
