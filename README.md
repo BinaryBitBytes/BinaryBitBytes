@@ -58,6 +58,13 @@
 <!--<a aria-label="" target="_blank" rel="noopener noreferrer" href=""><img src="" alt="" data-canonical-src="" style="max-width: 100%;"></a> -->
 
 </section>
+  
+<h3>Hosting Services</h3>
+<hr>
+<section>
+<a aria-label="AWS" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=black"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=black" alt="AWS" data-canonical-src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=black" style="max-width: 100%;"></a>
+<a aria-label="Heorku" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=gold"><img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=gold" alt="Heorku" data-canonical-src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=gold" style="max-width: 100%;"></a>  
+</section>
 
 <h3>Learning Platforms I Use:</h3>
 <hr>
