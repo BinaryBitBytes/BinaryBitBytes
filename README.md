@@ -3,12 +3,8 @@
 <hr>
 <h6>
 <ul">
-<li> 👋 Hi, I’m @BinaryBitBytes & I am looking to learn more about technology.
-<li> 👀 I’m interested in Gaming, 3D printing, and Cooking.
-<li> 🤖 I also love to fly drones; i log about 5 hours a week in UAV flights.
-<li> 🐲 You can find me in the multiverses' of metaverses'. Im on VR in Decentraland and other platforms.
-<li> 🌱 I’m currently learning full stack development.
-<li> 💞️ I’m looking to collaborate on coding, development, IT, network security, cloud computing, and physical computing.
+<li> 👋 Hi, I’m @BinaryBitBytes & i have a background in Networking & Hardware.
+<li> 🐲 I am a full stack developer.
 <li> 📫 How to reach me , I will post my Slack and Discord soon.
 </ul>
 </h6>
