@@ -40,7 +40,7 @@
 <a aria-label="Insomnia" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"><img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" alt="Insomnia" data-canonical-src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" style="max-width: 100%;"></a>
 <a aria-label="JQuery " target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"><img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery " data-canonical-src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" style="max-width: 100%;"></a>
 </span>
-  
+<a aria-label="JWT" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"><img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" data-canonical-src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" style="max-width: 100%;"></a> 
 <!--<a aria-label="" target="_blank" rel="noopener noreferrer" href=""><img src="" alt="" data-canonical-src="" style="max-width: 100%;"></a> -->
 
 </section>
