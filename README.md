@@ -143,7 +143,7 @@
   
 <a aria-label="GitHubStats Commits" target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=BinaryBitBytes&show_icons=true&theme=radical"><img src="https://github-readme-stats.vercel.app/api?username=BinaryBitBytes&show_icons=true&theme=radical" alt="GitHubStats Commits" data-canonical-src="https://github-readme-stats.vercel.app/api?username=BinaryBitBytes&show_icons=true&theme=radical" style="max-width: 100%;"></a>
 
-<a aria-label="GitHubStats Languages" target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=BinaryBitBytes&langs_count=10"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinaryBitBytes&langs_count=10" alt="GitHubStats Languages" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinaryBitBytes&langs_count=10" style="max-width: 100%;"></a>
+<a aria-label="GitHubStats Languages" target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=BinaryBitBytes&langs_count=10&title_color=FFFFFFFF&text_color=FFFFFFFF&bg_color=0,9812b3,b3124a,15b312,a6b312,b36d12,b33d12,5812b3,1293b3"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinaryBitBytes&langs_count=10&title_color=FFFFFFFF&text_color=FFFFFFFF&bg_color=0,9812b3,b3124a,15b312,a6b312,b36d12,b33d12,5812b3,1293b3" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinaryBitBytes&langs_count=10&title_color=FFFFFFFF&text_color=FFFFFFFF&bg_color=0,9812b3,b3124a,15b312,a6b312,b36d12,b33d12,5812b3,1293b3" style="max-width: 100%;"></a>
 
 </section>
 
