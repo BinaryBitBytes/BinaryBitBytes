@@ -136,10 +136,14 @@
   
 </section>
 
+<!--<a aria-label="" target="_blank" rel="noopener noreferrer" href=""><img src="" alt="" data-canonical-src="" style="max-width: 100%;"></a> -->
+
 <h3>My Stats</h3>
 <section>
   
-<a aria-label="GitHubStats" target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=BinaryBitBytes&show_icons=true&theme=radical"><img src="https://github-readme-stats.vercel.app/api?username=BinaryBitBytes&show_icons=true&theme=radical" alt="GitHubStats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=BinaryBitBytes&show_icons=true&theme=radical" style="max-width: 100%;"></a>
+<a aria-label="GitHubStats Commits" target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=BinaryBitBytes&show_icons=true&theme=radical"><img src="https://github-readme-stats.vercel.app/api?username=BinaryBitBytes&show_icons=true&theme=radical" alt="GitHubStats Commits" data-canonical-src="https://github-readme-stats.vercel.app/api?username=BinaryBitBytes&show_icons=true&theme=radical" style="max-width: 100%;"></a>
+
+<a aria-label="GitHubStats Languages" target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=BinaryBitBytes&langs_count=10"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinaryBitBytes&langs_count=10" alt="GitHubStats Languages" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinaryBitBytes&langs_count=10" style="max-width: 100%;"></a>
 
 </section>
 
