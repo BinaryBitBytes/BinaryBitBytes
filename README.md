@@ -133,12 +133,16 @@
 <a href="https://www.linkedin.com/in/BinaryBitBytes/" rel="nofollow"><img src="https://camo.githubusercontent.com/28bbd2596707954793abeff9eb24d343c1c78b7bf184b90294b4b190c6097a65/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt="linkedin" height="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width: 100%;"></a>
 <a href="mailto:117mwc117@gmail.com"><img src="https://camo.githubusercontent.com/66983abffc63495d5d2ba763f5979b1f2c18cf4852fc139e35839aef3a249779/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f676d61696c2e737667" alt="gmail" height="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" style="max-width: 100%;"></a>
 <a href="https://github.com/BinaryBitBytes"><img src="https://camo.githubusercontent.com/bf4b11af389d1e0caf625c40c274ba71464727c43579e48f512112694888eb62/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6769746875622e737667" alt="github" height="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" style="max-width: 100%;"></a>
+  
 </section>
 
 <h3>My Stats</h3>
 <section>
-<p dir="auto"><a href="https://github.com/BinaryBitBytes" align="left"><img src="https://camo.githubusercontent.com/375810835385319625b6e30feaa6c99f52efac03b52820d44c138d4b2679267b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d697473627269616e66697265266c616e67735f636f756e743d3130267469746c655f636f6c6f723d30383931623226746578745f636f6c6f723d6666666666662669636f6e5f636f6c6f723d3038393162322662675f636f6c6f723d31633139313726686964655f626f726465723d74727565266c6f63616c653d656e26637573746f6d5f7469746c653d546f70253230254c616e677561676573" alt="Top Languages" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinaryBitBytes&amp;langs_count=10&amp;title_color=0891b2&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=1c1917&amp;hide_border=true&amp;locale=en&amp;custom_title=Top%20%Languages" style="max-width: 100%;"></a></p>
+  
+<a aria-label="GitHubStats" target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=BinaryBitBytes&show_icons=true&theme=radical"><img src="https://github-readme-stats.vercel.app/api?username=BinaryBitBytes&show_icons=true&theme=radical" alt="GitHubStats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=BinaryBitBytes&show_icons=true&theme=radical" style="max-width: 100%;"></a>
+
 </section>
+
 </body>
 <!---
 BinaryBitBytes/BinaryBitBytes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
