@@ -85,6 +85,25 @@
 <a aria-label="Jest" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=black"><img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=black" alt="Jest" data-canonical-src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=black" style="max-width: 100%;"></a>
 <a aria-label="Mocha" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=green"><img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=green" alt="Mocha" data-canonical-src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=green" style="max-width: 100%;"></a>
 </section>
+
+<h3>My Skills:</h3>
+<hr>
+<section>
+<p align="left" dir="auto">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" style="max-width: 100%;"></a>
+<a href="https://www.w3.org/TR/CSS/#css" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" style="max-width: 100%;"></a>
+<a href="https://getbootstrap.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" style="max-width: 100%;"></a>
+<a href="https://nodejs.org/en/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" style="max-width: 100%;"></a>
+<a href="https://expressjs.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" style="max-width: 100%;"></a>
+<a href="https://graphql.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" style="max-width: 100%;"></a>
+<a href="https://www.mongodb.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" style="max-width: 100%;"></a>
+<a href="https://www.mysql.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" style="max-width: 100%;"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" style="max-width: 100%;"></a>
+<a href="https://reactjs.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" style="max-width: 100%;"></a>
+<a href="https://jquery.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" style="max-width: 100%;"></a>
+<a href="https://www.heroku.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" style="max-width: 100%;"></a>
+</p>
+</section>
   
 <h3>Learning Platforms I Use:</h3>
 <hr>
@@ -114,6 +133,11 @@
 <a href="https://www.linkedin.com/in/BinaryBitBytes/" rel="nofollow"><img src="https://camo.githubusercontent.com/28bbd2596707954793abeff9eb24d343c1c78b7bf184b90294b4b190c6097a65/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt="linkedin" height="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width: 100%;"></a>
 <a href="mailto:117mwc117@gmail.com"><img src="https://camo.githubusercontent.com/66983abffc63495d5d2ba763f5979b1f2c18cf4852fc139e35839aef3a249779/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f676d61696c2e737667" alt="gmail" height="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" style="max-width: 100%;"></a>
 <a href="https://github.com/BinaryBitBytes"><img src="https://camo.githubusercontent.com/bf4b11af389d1e0caf625c40c274ba71464727c43579e48f512112694888eb62/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6769746875622e737667" alt="github" height="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" style="max-width: 100%;"></a>
+</section>
+
+<h3>My Stats</h3>
+<section>
+<p dir="auto"><a href="https://github.com/BinaryBitBytes" align="left"><img src="https://camo.githubusercontent.com/375810835385319625b6e30feaa6c99f52efac03b52820d44c138d4b2679267b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d697473627269616e66697265266c616e67735f636f756e743d3130267469746c655f636f6c6f723d30383931623226746578745f636f6c6f723d6666666666662669636f6e5f636f6c6f723d3038393162322662675f636f6c6f723d31633139313726686964655f626f726465723d74727565266c6f63616c653d656e26637573746f6d5f7469746c653d546f70253230254c616e677561676573" alt="Top Languages" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinaryBitBytes&amp;langs_count=10&amp;title_color=0891b2&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=1c1917&amp;hide_border=true&amp;locale=en&amp;custom_title=Top%20%Languages" style="max-width: 100%;"></a></p>
 </section>
 </body>
 <!---
