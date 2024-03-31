@@ -133,7 +133,7 @@
 <a aria-label="Ubuntu" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=green"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=green" alt="Ubuntu" data-canonical-src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=green" style="max-width: 100%;"></a>
 <a aria-label="Windows" target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=black"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=black" alt="Windows" data-canonical-src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=black" style="max-width: 100%;"></a>  
 </section>
-
+<br>
 <h3>Contact Me</h3>
 <section>
 <a href="https://www.linkedin.com/in/BinaryBitBytes/" rel="nofollow"><img src="https://camo.githubusercontent.com/28bbd2596707954793abeff9eb24d343c1c78b7bf184b90294b4b190c6097a65/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt="linkedin" height="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width: 100%;"></a>
